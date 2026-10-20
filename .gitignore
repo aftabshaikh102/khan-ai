@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+khan_memory.db
+app_backup.py
+__pycache__/
+.venv/
